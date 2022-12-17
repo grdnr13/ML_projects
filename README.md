@@ -1,3 +1,3 @@
 # ML_projects
 
-some toy projects using Machine Learning
+Some simple projects using Machine Learning
